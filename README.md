@@ -23,7 +23,9 @@ Place them inside the data/ folder:
 
 data/
 ├── train.csv
+
 ├── test.csv
+
 └── store.csv
 
 ---
