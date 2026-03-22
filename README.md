@@ -11,7 +11,9 @@ The goal is to predict store sales based on historical data and external factors
 ---
 
 ## 📂 Dataset
-The dataset contains information about Rossmann stores:
+The dataset used in this project is from Kaggle:
+
+👉 https://www.kaggle.com/competitions/rossmann-store-sales/data
 - Store details (type, assortment)
 - Daily sales data
 - Promotions and holidays
