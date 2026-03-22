@@ -57,7 +57,7 @@ Both models were trained **without** and **with** lag features.
 |---|---|---|
 | Linear Regression | ~2007 | ~0.19 |
 | Random Forest | ~1611 | ~0.46 |
-| Linear Regression + Lag | ~1199 | ~0.70 |
+
 | **Random Forest + Lag** | **~866** | **~0.83** |
 
 ---
