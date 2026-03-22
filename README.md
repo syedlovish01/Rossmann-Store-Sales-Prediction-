@@ -14,10 +14,17 @@ The goal is to predict store sales based on historical data and external factors
 The dataset used in this project is from Kaggle:
 
 👉 https://www.kaggle.com/competitions/rossmann-store-sales/data
-- Store details (type, assortment)
-- Daily sales data
-- Promotions and holidays
-- Competition information
+Due to file size limitations, the dataset is not included in this repository.
+
+📌 How to use
+Download the dataset from the link above
+Extract the files
+Place them inside the data/ folder:
+
+data/
+├── train.csv
+├── test.csv
+└── store.csv
 
 ---
 
