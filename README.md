@@ -22,6 +22,7 @@ Extract the files
 Place them inside the data/ folder:
 
 data/
+
 ├── train.csv
 
 ├── test.csv
